@@ -37,4 +37,6 @@ Footer
 
 Extras
 
-Pueden agregar cualquier funcionalidad o sección que quieran para que su proyecto sea más completo y represente mejor a sus artista favorito!
+- [ ] Agregar el título de la página en la pestaña de la ventana.
+- [ ] Cambiar la fuente del texto del documento.
+- [ ] Pueden agregar cualquier funcionalidad o sección que quieran para que su proyecto sea más completo y represente mejor a sus artista favorito!
