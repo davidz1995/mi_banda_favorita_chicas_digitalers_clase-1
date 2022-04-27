@@ -1,4 +1,4 @@
-# Mi banda favorita
+# Mi artista favorit@
 
 Pagina web hecha con HTML y CSS, tarea para chicas digitalers clase 1 - avanzado
 
