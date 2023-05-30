@@ -13,7 +13,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  height: 8vh;
+  height: 12vh;
   width: 90%;
   margin-top: -0.5em;
   background-color: #000000;
@@ -48,7 +48,7 @@
     color: orange;
 }
 .first_page {
-  background-image: url("http://fito.melboss.com/wp-content/uploads/2020/03/Fito-9.jpg");
+  background-image: url("https://s3.eu-central-1.amazonaws.com/images.jacksonlive.es/upload/artists/high/1506944804.jpg");
   background-size: cover;
   margin-top: -1.5em;
   height: 75vh;
@@ -64,6 +64,7 @@
 }
 .left_column {
   text-align: left;
+  width: 50%;
 }
 .band_name {
   font-size: 3.7rem;
@@ -81,6 +82,8 @@
 .band_img {
   border-radius: 0.8em;
   margin-top: 2.5em;
+  width: 30em;
+  height: 20em;
 }
 .auxiliar_text{
     font-size: 1.2rem;
